@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+## Demo
+With reducer
+
+![Demo](chrome-capture-2024-9-15.gif)
+
+
+
+
+
 ## Getting Started
 
 First, run the development server:
